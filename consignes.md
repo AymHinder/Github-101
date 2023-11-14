@@ -7,8 +7,12 @@ Publier un site internet sur GitHub en utilisant Visual Studio Code.
 - Avez-vous déjà un compte GitHub? Si non, créez-en un sur [GitHub](https://github.com/).
 
 ## Étape 2: Installation de Visual Studio Code et de l'extension GitHub
+- Dans un invite de commande, vérifiez que Git est installé avec la commande git --version (si il ne l'est pas --> [Git](https://git-scm.com/download/win) )
+- Dans ce même invite de commande, configurez votre compte avec les commandes suivantes (les "John Doe" sont à remplacer par vos noms d'utilisateur et mails configurés dans GitHub) : `git config --global user.name "John Doe"` et `git config --global user.email johndoe@example.com`. 
+
 - Avez-vous installé Visual Studio Code sur votre machine? Si non, téléchargez et installez-le depuis [Visual Studio Code](https://code.visualstudio.com/).
-- Avez-vous installé l'extension GitHub dans Visual Studio Code? Si non, installez-la à partir de l'onglet Extensions.
+
+- Avez-vous installé l'extension `GitHub Pull Requests ans Issues` dans Visual Studio Code? Si non, installez-la à partir de l'onglet Extensions.
 
 ## Étape 3: Initialisation d'un repository local
 1. Ouvrez Visual Studio Code.
