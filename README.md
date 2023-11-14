@@ -17,7 +17,7 @@ Les instructions complètes de l'activité se trouvent dans le fichier [consigne
 ## Afficher les consignes au format HTML
 1. Ouvrez [consignes.md](consignes.md) dans Visual Studio Code.
 
-2. Utilisez la combinaison de touches `Ctrl + Shift + V` pour afficher les consignes au format HTML.
+2. Après vous êtes positionnés dans la zone de texte, utilisez la combinaison de touches `Ctrl + Shift + V` pour afficher les consignes au format HTML.
 
 Cela vous permettra de visualiser les consignes dans une vue prévisualisée en format HTML directement dans Visual Studio Code.
 

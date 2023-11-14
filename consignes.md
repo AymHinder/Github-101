@@ -1,13 +1,30 @@
-# Activité: Utilisation de GitHub avec Visual Studio Code (sans ligne de commande)
+# Activité: Utilisation de GitHub avec Visual Studio Code
 
 ## Objectif
 Publier un site internet sur GitHub en utilisant Visual Studio Code.
+
+## Modalités d'évaluation
+Publication du site dans un Repository sur votre compte GitHub 
+Réponses aux questions d'introduction (à intégrer dans un fichier .txt et à ajouter au Repository) 
+
+## Durée
+4H
+
+## Questions d'introduction à GitHub
+Quelques questions pour découvrir l'outil GitHub :
+1) Qu'est ce que Git ? Quelle différence avec GitHub ?
+2) Qu'est ce qu'un Repository ?
+3) Qu'est ce qu'un commit ? Un push ? Un pull ?
+4) A quoi sert le fichier README.md dans un repository GitHub ?
+5) Comment récupérer un repository GitHub en ligne de commande sur un invite de commande ?
+
 
 ## Étape 1: Création d'un compte GitHub
 - Avez-vous déjà un compte GitHub? Si non, créez-en un sur [GitHub](https://github.com/).
 
 ## Étape 2: Installation de Visual Studio Code et de l'extension GitHub
 - Dans un invite de commande, vérifiez que Git est installé avec la commande git --version (si il ne l'est pas --> [Git](https://git-scm.com/download/win) )
+
 - Dans ce même invite de commande, configurez votre compte avec les commandes suivantes (les "John Doe" sont à remplacer par vos noms d'utilisateur et mails configurés dans GitHub) : `git config --global user.name "John Doe"` et `git config --global user.email johndoe@example.com`. 
 
 - Avez-vous installé Visual Studio Code sur votre machine? Si non, téléchargez et installez-le depuis [Visual Studio Code](https://code.visualstudio.com/).
@@ -38,5 +55,3 @@ Publier un site internet sur GitHub en utilisant Visual Studio Code.
 
 ## Étape 8: Pousser les changements sur GitHub
 À partir de maintenant, lorsque vous effectuez des changements dans votre code, Visual Studio Code vous permettra de pousser ces changements directement en utilisant les boutons d'interaction avec GitHub présents dans l'interface.
-
-Encouragez les étudiants à explorer ces fonctionnalités et à se familiariser avec le flux de travail pour collaborer sur des projets à l'aide de GitHub et Visual Studio Code.
