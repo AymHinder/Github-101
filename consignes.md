@@ -7,6 +7,7 @@ Publier un fichier sur GitHub en utilisant Visual Studio Code.
 ## Modalités d'évaluation
 
 Réponses aux questions d'introduction (à intégrer dans un fichier .txt et à ajouter au Repository)
+
 Publication du fichier dans un Repository sur votre compte GitHub.
 
 ## Durée
