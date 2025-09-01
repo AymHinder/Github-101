@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Publier un site internet sur GitHub en utilisant Visual Studio Code.
+Publier un fichier sur GitHub en utilisant Visual Studio Code.
 
 ## Modalités d'évaluation
 
