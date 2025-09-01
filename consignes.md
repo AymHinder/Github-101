@@ -13,7 +13,7 @@ Publication du fichier dans un Repository sur votre compte GitHub.
 
 4H
 
-## Questions d'introduction à GitHub
+## Questions d'introduction à GitHub et Linux
 
 Quelques questions pour découvrir l'outil GitHub :
 
@@ -22,6 +22,14 @@ Quelques questions pour découvrir l'outil GitHub :
 3) Qu'est ce qu'un commit ? Un push ? Un pull ?
 4) A quoi sert le fichier README.md dans un repository GitHub ?
 5) Comment récupérer un repository GitHub en ligne de commande sur un invite de commande ?
+
+Quelques questions sur les OS et plus particulièrement Linux :
+
+1) Qu'est ce qu'un OS ? A quoi cela sert il ?
+2) Quelles sont les 3 principales familles d'OS ?
+3) Linux est-il un OS ou une famille d'OS ?
+4) Donnez moi 4 OS á noyau Linux
+5) Quelle est la particularité principale des OS Linux par rapport aux autres ?
 
 ## Étape 1: Création d'un compte GitHub
 
