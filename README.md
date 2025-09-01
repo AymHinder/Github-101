@@ -4,7 +4,7 @@ Bienvenue dans cette activité qui vous guidera à travers le processus d'utilis
 
 ## Consignes
 
-Les instructions complètes de l'activité se trouvent dans le fichier [consignes.md](consignes.md). Assurez-vous de suivre les étapes détaillées pour publier votre site internet sur GitHub en utilisant Visual Studio Code.
+Les instructions complètes de l'activité se trouvent dans le fichier [consignes.md](consignes.md). Assurez-vous de suivre les étapes détaillées pour publier les réponses sur un repository GitHub en utilisant Visual Studio Code.
 
 ## Comment ouvrir les consignes avec Visual Studio Code
 
